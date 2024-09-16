@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>TestBar</Name>
+		<FullClassName>RevitAPI_Course.App</FullClassName>
+		<Text>TestBar</Text>
+		<Description>TestBarToolBar</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>RevitAPI_Course.dll</Assembly>
+		<AddInId>3290354b-47c4-457a-8800-df3642b93fd0</AddInId>
+		<VendorId>Training</VendorId>
+		<VendorDescription>Training with Revit API C#</VendorDescription>
+	</AddIn>
+</RevitAddIns>

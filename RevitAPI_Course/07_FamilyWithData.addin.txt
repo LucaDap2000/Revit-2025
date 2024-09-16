@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>FamilyWithData</Name>
+		<FullClassName>RevitAPI_Course._07_FamilyWithData</FullClassName>
+		<Text>Family With Data</Text>
+		<Description>Creates a copy of a Family reading the Length</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>RevitAPI_Course.dll</Assembly>
+		<AddInId>6f27df3d-4dc7-4ca5-983e-9f1fb4a80954</AddInId>
+		<VendorId>Training</VendorId>
+		<VendorDescription>Training with Revit API C#</VendorDescription>
+	</AddIn>
+</RevitAddIns>
